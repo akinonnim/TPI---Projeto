@@ -1,0 +1,140 @@
+body {
+	
+	background-image: url('../IMAGENS/nebula.jpg');
+
+}
+
+.container{
+	margin: 0 auto;
+	width: 1000px;
+	height: 1000px;
+	background-color: rgba(0 0 0 0);
+
+
+}
+h1{
+	text-align: center;
+	color: #4169E1;
+	font-style: 
+
+}
+h3{
+text-align: center;
+color: white;
+
+}
+.topo{
+
+	margin: 0 auto;
+	width: 100%;
+	height: 90px;
+	background-color: rgba(106, 49, 144, 0.2);
+
+}
+
+.conteudo{
+	margin: 0 auto;
+	width: 1000px;
+	height: 600px;
+
+}
+
+.menu{
+	position: relative;
+	float: left;
+	width: 200px;
+	height: 400px;
+	background-color: rgba(111,22,103,0.2);
+
+
+}
+.menu h1{
+	font-size: 25px;
+
+}
+
+.menu a{
+	color: #4169E1;
+	font-size: 20px;
+	margin: 20px;
+	text-decoration: none;
+
+}
+ 
+ .menu a:hover{
+ 	color: #fff;
+ 	text-decoration: underline;
+ }
+ .contencao_universal{
+
+ 	margin-left: 10px;	
+ 	float: left;
+ 	margin top: 5px;
+ 	width: 780px;
+ 	height: 740px;
+ 	background-color: rgba(111,22,103,0.2);
+
+ }
+
+
+ .primeira_coluna{
+position: relative;
+float: left;
+height: 700px;
+width: 200px;
+text-align: justify;
+margin-right: 10px;
+padding: 10px;
+
+ }
+
+ .primeira_coluna p{
+
+ 	text-align: justify;
+ 	color: #fff;
+
+ }.segunda_coluna{
+position: relative;
+float: left;
+height: 700px;
+width: 200px;
+text-align: justify;
+margin-right: 10px;
+padding: 10px;
+
+ }
+
+ .segunda_coluna p{
+
+ 	text-align: justify;
+ 	color: #fff;
+
+ }
+
+ .terceira_coluna{
+ position: relative;
+float: left;
+height: 700px;
+width: 200px;
+text-align: justify;
+margin-right: 10px;
+padding: 10px;
+
+ }
+
+ .terceira_coluna p{
+ 	text-align: justify;
+ 	color: #fff;
+
+
+ }
+ /*.links{
+ 	margin: 30px;
+ 	float: left;
+ 	width: 200px;
+ 	height: 200px;
+ 	background-color: rgba(111,22,103,0.2);
+ 	float: left;
+ 	border: thin solid;
+
+ }*/
